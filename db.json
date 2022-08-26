@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Smart watch",
+        "brand": "Noise",
+        "description": "Smart watch for men and women",
+        "img": "https://cdn.shopify.com/s/files/1/0997/6284/files/nav-noise-colorfit-nav-plus-smartwatch.png?v=1204562474574174263",
+        "price": 3000
+      },
+      {
+        "id": "2",
+        "name": "Laptop",
+        "brand": "Apple",
+        "description": "MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 512GB SSD Storage",
+        "img": "https://9to5mac.com/wp-content/uploads/sites/6/2020/03/MacBook-Air-2020-Top-Features-9to5mac.jpg?quality=82&strip=all&w=1600",
+        "price": 100000
+      },
+      {
+        "id": "3",
+        "name": "Phone",
+        "brand": "Poco",
+        "description": "Poco m2 pro 8gb ram 128gb rom",
+        "img": "https://cdn.shopify.com/s/files/1/1684/4603/products/Poco-M2-Pro_Two-Shades-Of-Black.png?v=1625653077",
+        "price": 20000
+      }
+    ]
+  }
